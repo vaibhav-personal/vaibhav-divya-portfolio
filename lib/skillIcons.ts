@@ -53,6 +53,7 @@ import {
   SiDocker,
   SiGithub,
   SiGit,
+  SiReact
 } from "react-icons/si";
 
 import { MdArchitecture, } from "react-icons/md";
@@ -70,6 +71,7 @@ export const skillIcons: any = {
 
   // STATE MANAGEMENT
   SiRedux,
+  SiReact,
 
   // BACKEND
   FaNodeJs,
