@@ -6,6 +6,8 @@ import {
   FaGitAlt,
   FaHtml5,
   FaCss3Alt,
+  FaMobileAlt,
+  FaBolt,
 } from "react-icons/fa";
 
 import {
@@ -46,7 +48,14 @@ import {
   SiWebpack,
   SiGooglecloud,
   SiJest,
+  SiTestinglibrary,
+  SiOpenai,
+  SiDocker,
+  SiGithub,
+  SiGit,
 } from "react-icons/si";
+
+import { MdArchitecture, } from "react-icons/md";
 
 export const skillIcons: any = {
   // FRONTEND
@@ -112,4 +121,12 @@ export const skillIcons: any = {
   // ANALYTICS
   FaChartBar,
   SiFirebase,
+
+  FaMobileAlt,
+  FaBolt,
+  SiOpenai,
+  SiDocker,
+  SiGithub,
+  SiGit,
+  MdArchitecture,
 };
