@@ -56,7 +56,7 @@ import {
   SiReact
 } from "react-icons/si";
 
-import { MdArchitecture, } from "react-icons/md";
+import { MdArchitecture, MdApi } from "react-icons/md";
 
 export const skillIcons: any = {
   // FRONTEND
@@ -111,6 +111,7 @@ export const skillIcons: any = {
   // APIs
   FaServer,
   SiSocketdotio,
+  MdApi,
 
   // OTHER
   FaUsers,
