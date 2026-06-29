@@ -32,6 +32,7 @@ import {
   SiNextdotjs,
   SiJavascript,
   SiTypescript,
+  SiCss,
   SiTailwindcss,
   SiRedux,
   SiExpress,
@@ -68,6 +69,7 @@ export const skillIcons: any = {
   FaCss3Alt,
   SiTailwindcss,
   SiBootstrap,
+  SiCss,
 
   // STATE MANAGEMENT
   SiRedux,
