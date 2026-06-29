@@ -92,6 +92,7 @@ export const skillIcons: any = {
   SiNpm,
   SiYarn,
   SiWebpack,
+  FaCodeBranch,
 
   // CLOUD
   SiGooglecloud,
