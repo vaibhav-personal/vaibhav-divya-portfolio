@@ -54,10 +54,11 @@ import {
   SiDocker,
   SiGithub,
   SiGit,
-  SiReact
+  SiReact,
 } from "react-icons/si";
 
 import { MdArchitecture, MdApi } from "react-icons/md";
+import { TbReportAnalytics } from "react-icons/tb";
 
 export const skillIcons: any = {
   // FRONTEND
@@ -94,6 +95,7 @@ export const skillIcons: any = {
   SiNpm,
   SiYarn,
   SiWebpack,
+  TbReportAnalytics,
   FaCodeBranch,
 
   // CLOUD
